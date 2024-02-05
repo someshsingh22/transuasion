@@ -164,3 +164,4 @@ data/
 *.parquet
 *.out
 *.log
+**.DS_Store
