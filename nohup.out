@@ -1,2 +1,0 @@
-(dryrun) upload: data/transuasion_it4_pair_sim.parquet to s3://crawldatafromgcp/somesh/KPITranslation/transuasion_it4_pair_sim.parquet
-(dryrun) upload: data/wordlist-20210729.txt to s3://crawldatafromgcp/somesh/KPITranslation/wordlist-20210729.txt
