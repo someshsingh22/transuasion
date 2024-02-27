@@ -1,0 +1,5 @@
+datasets
+pyarrow
+fastparquet
+pandas
+seaborn
